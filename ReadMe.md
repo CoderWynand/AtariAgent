@@ -50,6 +50,8 @@ For proper functioning, this project requires:
 
 *To activate the virtual environment (on Windows) run*: agent-environment\\Scripts\\activate
 
+*Download the above dependencies*
+
 
 
 *Optionally, train the agent*: python TrainTheAgent.py
